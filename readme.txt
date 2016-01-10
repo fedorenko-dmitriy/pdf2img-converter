@@ -1,6 +1,7 @@
 === Plugin Name ===
 Contributors: There is no contributors at present time
 Tags: converters, media, uploads
+Donate link: http://example.com/
 Requires at least: 3.0.1
 Tested up to: 4.4
 Stable tag: trunk
@@ -40,5 +41,8 @@ You may provide arbitrary sections, in the same format as the ones above.  This 
 plugins where more information needs to be conveyed that doesn't fit into the categories of "description" or
 "installation."  Arbitrary sections will be shown below the built-in sections outlined above.
 
+== Frequently Asked Questions ==
+There is no questions
+== Upgrade Notice ==
 
 `<?php code(); // goes in backticks ?>`
